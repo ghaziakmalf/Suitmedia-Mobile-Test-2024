@@ -2,5 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="suitmedia_blue">#554AF0</color>
+    <color name="grey">#FF9E9E9E</color>
+    <color name="suitmedia_blue">#FF554AF0</color>
+    <color name="suitmedia_green">#FF2B637B</color>
 </resources>

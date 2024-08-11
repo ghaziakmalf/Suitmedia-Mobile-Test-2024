@@ -41,6 +41,13 @@ val fontFamily = FontFamily(
 
 // Set of Material typography styles to start with
 val LightTypography = Typography(
+    labelLarge = TextStyle(
+        fontFamily = fontFamily,
+        fontWeight = FontWeight.Medium,
+        fontSize = 16.sp,
+        textAlign = TextAlign.Center,
+        color = Grey
+    ),
     labelMedium = TextStyle(
         fontFamily = fontFamily,
         fontWeight = FontWeight.Medium,
@@ -86,6 +93,13 @@ val LightTypography = Typography(
 )
 
 val DarkTypography = Typography(
+    labelLarge = TextStyle(
+        fontFamily = fontFamily,
+        fontWeight = FontWeight.Medium,
+        fontSize = 16.sp,
+        textAlign = TextAlign.Center,
+        color = Grey
+    ),
     labelMedium = TextStyle(
         fontFamily = fontFamily,
         fontWeight = FontWeight.Medium,
