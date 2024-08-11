@@ -58,7 +58,7 @@ This mobile application is developed for Android using Kotlin with Jetpack Compo
 - Connect your Android device or start an emulator.
 - Click "Run" in Android Studio.
 
-### APK Distribution
+## APK Distribution
 
 The APK file for this project is available for download in the root directory of this repository. You can download it directly from the following link:
 
