@@ -4,6 +4,24 @@
 
 This mobile application is developed for Android using Kotlin with Jetpack Compose. It includes three main screens and features for user interaction and dynamic content display.
 
+## Screenshots
+
+### Light Mode
+
+<p align="center">
+  <img src="screenshots/FirstScreen_Light.png" alt="FirstScreen_Light" width="200" style="margin-right: 20px;"/>
+  <img src="screenshots/SecondScreen_Light.png" alt="SecondScreen_Light" width="200" style="margin-right: 20px;"/>
+  <img src="screenshots/ThirdScreen_Light.png" alt="ThirdScreen_Light" width="200"/>
+</p>
+
+### Dark Mode
+
+<p align="center">
+  <img src="screenshots/FirstScreen_Dark.png" alt="FirstScreen_Dark" width="200" style="margin-right: 20px;"/>
+  <img src="screenshots/SecondScreen_Dark.png" alt="SecondScreen_Dark" width="200" style="margin-right: 20px;"/>
+  <img src="screenshots/ThirdScreen_Dark.png" alt="ThirdScreen_Dark" width="200"/>
+</p>
+
 ## Features
 
 1. **FirstScreen**
